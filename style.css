@@ -1,0 +1,29 @@
+*{
+    margin: 0 auto;
+}
+.grid
+{
+    display: block;
+    flex-direction: row;
+    background-color: rgb(46, 44, 44);
+    width: 100vw;
+    height: 70vh;
+    padding: 0px;
+    
+}
+.block
+{
+    
+    margin: 1rem;
+    padding: 0px;
+    height: 7rem;
+    width: 7rem;
+}
+.hid
+{
+    background-color: gray;
+}
+.apa
+{
+    background-color: white;
+}
