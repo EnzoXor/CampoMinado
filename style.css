@@ -1,29 +1,16 @@
-*{
-    margin: 0 auto;
-}
-.grid
+table
 {
-    display: block;
-    flex-direction: row;
-    background-color: rgb(46, 44, 44);
-    width: 100vw;
-    height: 70vh;
-    padding: 0px;
-    
+  background-color: rgb(235, 235, 235);
 }
-.block
-{
-    
-    margin: 1rem;
-    padding: 0px;
-    height: 7rem;
-    width: 7rem;
+
+td {
+ width: 4rem;
+ height: 4rem;
+ border: .2rem black solid;
+ margin: .5rem;
 }
-.hid
-{
-    background-color: gray;
-}
-.apa
-{
-    background-color: white;
+input{
+  width: 4rem;
+  height: 4rem;
+  border: 0rem;
 }
