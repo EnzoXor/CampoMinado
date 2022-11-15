@@ -8,9 +8,11 @@ td {
  height: 4rem;
  border: .2rem black solid;
  margin: .5rem;
+ border-radius: .5rem;
 }
 input{
   width: 4rem;
   height: 4rem;
   border: 0rem;
+  border-radius: .5rem;
 }
